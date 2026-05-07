@@ -28,21 +28,23 @@
 ---
 ## 🧬 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 **Hey, I'm Youssef!** 👋
 
-CS student at **Benha University** *(GPA: 3.7 / 4.0 — AI Track)*  
+CS student at **Benha University** *(GPA: 3.7 / 4.0 — AI Track)*
 Building intelligent systems with **NLP & Deep Learning**, and scalable web apps with **.NET**.
 
 Currently open to **internships & junior roles** in AI, NLP, or .NET development.
 
 <br/>
 
-🧠 &nbsp;NLP pipelines — classification, NER & sentiment with Hugging Face  
-🌐 &nbsp;Enterprise .NET apps with ASP.NET Core, C# & Angular  
-🤖 &nbsp;Robotics planning — Genetic · ACO · ABC algorithms  
-📊 &nbsp;Fine-tuning Transformer models on custom datasets  
+🧠 &nbsp;NLP pipelines — classification, NER & sentiment with Hugging Face
+🌐 &nbsp;Enterprise .NET apps with ASP.NET Core, C# & Angular
+🤖 &nbsp;Robotics planning — Genetic · ACO · ABC algorithms
+📊 &nbsp;Fine-tuning Transformer models on custom datasets
 
 <br/>
 
@@ -55,11 +57,20 @@ Currently open to **internships & junior roles** in AI, NLP, or .NET development
 | 📍 | Egypt 🇪🇬 |
 | 🚀 | Open to Internships & Junior Roles |
 
-<br clear="right"/>
+<br/>
 
-**🏅 Certifications**
+🟢 &nbsp;**NVIDIA** — Fundamentals of Deep Learning
+🟣 &nbsp;**DEPI** — Full-Stack .NET Developer
+🔵 &nbsp;**English Certificate**
 
-🟢 &nbsp;**NVIDIA** — Fundamentals of Deep Learning &nbsp;&nbsp; 🟣 &nbsp;**DEPI** — Full-Stack .NET Developer &nbsp;&nbsp; 🔵 &nbsp;**English Certificate**
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="320" alt="coding animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
