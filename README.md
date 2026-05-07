@@ -29,20 +29,16 @@
 
 # 🧠 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="100%" valign="top">
+<div align="left">
 
 ## 👨‍💻 Who Am I?
 
-- 🎓 Computer Science Student — AI Track  
-- 🧠 AI Engineer focused on NLP & Deep Learning  
-- 🌐 Full-Stack .NET Developer  
-- 🚀 Passionate about building intelligent systems  
-- ⚡ Interested in Transformers, LLMs & CUDA  
-- 📍 Based in Egypt 🇪🇬  
+🎓 Computer Science Student — AI Track at Benha University  
+🧠 AI Engineer specialized in NLP & Deep Learning  
+🌐 Full-Stack .NET Developer building scalable applications  
+🚀 Passionate about AI systems that solve real-world problems  
+⚡ Interested in Transformers, LLMs, CUDA & Intelligent Systems  
+📍 Based in Egypt 🇪🇬
 
 ---
 
@@ -57,13 +53,24 @@
 
 ---
 
+## 🛠️ Technologies I Work With
+
+```text
+Python • PyTorch • TensorFlow • Hugging Face
+ASP.NET Core • Angular • SQL Server
+Machine Learning • NLP • CUDA • MLflow
+```
+
+---
+
 ## 💡 Goals
 
 ```text
-Building impactful AI systems
-that solve real-world problems.
+Building impactful AI-powered systems
+that create real-world value.
 ```
 
+</div>
 </td>
 </tr>
 </table>
