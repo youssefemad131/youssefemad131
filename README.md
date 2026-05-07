@@ -26,28 +26,58 @@
 </div>
 
 ---
+## 🧬 About Me
 
-# 🧠 About Me
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```txt
-AI Engineer & Full-Stack .NET Developer passionate about building
-intelligent systems using NLP, Deep Learning, and modern backend technologies.
+### 👋 Hey, I'm Youssef!
 
-Focused on:
-🧠 NLP & Transformer Models
-⚡ Deep Learning with PyTorch
-🌐 ASP.NET Core Applications
-🤖 AI-powered Solutions & Research
+🎓 **CS Student** @ Benha University *(GPA: 3.7 / 4.0 — AI Track)*
+📍 **Egypt** 🇪🇬 &nbsp;|&nbsp; 📧 youssefemad1718@gmail.com
 
-Tech Stack:
-Python • PyTorch • TensorFlow • Hugging Face
-ASP.NET Core • Angular • SQL Server • CUDA
+I build **intelligent NLP systems** and **full-stack web applications** — turning complex problems into clean, practical solutions.
 
-🎓 Computer Science Student — AI Track
-📍 Egypt 🇪🇬
-```
+Currently working as an **NLP Specialist @ Quantum**, building deep learning models for text classification, sentiment analysis, and named entity recognition.
+
+Also a **Full-Stack .NET Trainee @ DEPI**, developing enterprise-grade apps with ASP.NET, C#, and Angular.
 
 ---
+
+**🔭 Currently working on:**
+- 🧠 NLP pipelines with Hugging Face Transformers
+- 🌐 Enterprise .NET web applications
+- 🤖 Robotics path planning (Genetic · ACO · ABC algorithms)
+
+**🌱 Currently learning:**
+- Advanced deep learning architectures
+- Enterprise-level .NET & system design
+
+</td>
+<td valign="top" width="45%">
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 🏫 | Benha University, Year 3 |
+| 🎯 | GPA **3.7 / 4.0** |
+| 💼 | NLP Specialist @ Quantum |
+| 🛠️ | .NET Trainee @ DEPI |
+| 🧠 | Specialization: **AI & NLP** |
+| 🌍 | Location: **Egypt** |
+| 🚀 | Open to: **Internships & Junior Roles** |
+
+### 🏅 Certifications
+
+🟢 **NVIDIA** — Fundamentals of Deep Learning
+🟣 **DEPI** — Full-Stack .NET Web Developer
+🔵 **English Certificate**
+
+</td>
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
