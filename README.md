@@ -28,66 +28,40 @@
 ---
 ## 🧬 About Me
 
-<div align="center">
-
-![](https://img.shields.io/badge/NLP%20Specialist-7c3aed?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/.NET%20Developer-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square&logoColor=white)
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding gif"/>
 
 **Hey, I'm Youssef!** 👋
 
-CS student at **Benha University** *(GPA: 3.7 / 4.0 — AI Track)* passionate about building intelligent systems with NLP & deep learning, and scalable web apps with modern .NET technologies.
+CS student at **Benha University** *(GPA: 3.7 / 4.0 — AI Track)*  
+Building intelligent systems with **NLP & Deep Learning**, and scalable web apps with **.NET**.
 
-Currently open to **internships and junior roles** in AI, NLP, or .NET development.
+Currently open to **internships & junior roles** in AI, NLP, or .NET development.
 
 <br/>
 
-**🔭 What I'm building:**
+🧠 &nbsp;NLP pipelines — classification, NER & sentiment with Hugging Face  
+🌐 &nbsp;Enterprise .NET apps with ASP.NET Core, C# & Angular  
+🤖 &nbsp;Robotics planning — Genetic · ACO · ABC algorithms  
+📊 &nbsp;Fine-tuning Transformer models on custom datasets  
 
-&nbsp;&nbsp;🧠 &nbsp;NLP pipelines — classification, NER & sentiment analysis with Hugging Face
-
-&nbsp;&nbsp;🌐 &nbsp;Enterprise .NET apps with ASP.NET Core, C# & Angular
-
-&nbsp;&nbsp;🤖 &nbsp;Robotics path planning — Genetic · ACO · ABC algorithms
-
-&nbsp;&nbsp;📊 &nbsp;Fine-tuning Transformer models on custom datasets
-
-</td>
-<td valign="top" width="40%">
-
-**⚡ Quick Facts**
+<br/>
 
 | | |
 |:--|--:|
-| 🏫 University | Benha CS — Year 3 |
-| 🎯 GPA | **3.7 / 4.0** |
-| 💼 Role | NLP @ Quantum |
-| 🛠️ Training | .NET @ DEPI |
-| 📍 Location | Egypt 🇪🇬 |
-| 🚀 Seeking | Internships & Junior Roles |
+| 🏫 | Benha CS — Year 3 |
+| 🎯 | GPA **3.7 / 4.0** |
+| 💼 | NLP Specialist @ Quantum |
+| 🛠️ | .NET Trainee @ DEPI |
+| 📍 | Egypt 🇪🇬 |
+| 🚀 | Open to Internships & Junior Roles |
 
-<br/>
+<br clear="right"/>
 
 **🏅 Certifications**
 
-🟢 &nbsp;**NVIDIA** — Fundamentals of Deep Learning
+🟢 &nbsp;**NVIDIA** — Fundamentals of Deep Learning &nbsp;&nbsp; 🟣 &nbsp;**DEPI** — Full-Stack .NET Developer &nbsp;&nbsp; 🔵 &nbsp;**English Certificate**
 
-🟣 &nbsp;**DEPI** — Full-Stack .NET Developer
-
-🔵 &nbsp;**English Certificate**
-
-</td>
-</tr>
-</table>
+---
 
 # 🚀 Featured Projects
 
