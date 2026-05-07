@@ -28,52 +28,62 @@
 ---
 ## 🧬 About Me
 
+<div align="center">
+
+![](https://img.shields.io/badge/NLP%20Specialist-7c3aed?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/.NET%20Developer-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square&logoColor=white)
+
+</div>
+
+<br/>
+
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="60%">
 
-### 👋 Hey, I'm Youssef!
+**Hey, I'm Youssef!** 👋
 
-🎓 **CS Student** @ Benha University *(GPA: 3.7 / 4.0 — AI Track)*
-📍 **Egypt** 🇪🇬 &nbsp;|&nbsp; 📧 youssefemad1718@gmail.com
+CS student at **Benha University** *(GPA: 3.7 / 4.0 — AI Track)* passionate about building intelligent systems with NLP & deep learning, and scalable web apps with modern .NET technologies.
 
-I build **intelligent NLP systems** and **full-stack web applications** — turning complex problems into clean, practical solutions.
+Currently open to **internships and junior roles** in AI, NLP, or .NET development.
 
-Currently working as an **NLP Specialist @ Quantum**, building deep learning models for text classification, sentiment analysis, and named entity recognition.
+<br/>
 
-Also a **Full-Stack .NET Trainee @ DEPI**, developing enterprise-grade apps with ASP.NET, C#, and Angular.
+**🔭 What I'm building:**
 
----
+&nbsp;&nbsp;🧠 &nbsp;NLP pipelines — classification, NER & sentiment analysis with Hugging Face
 
-**🔭 Currently working on:**
-- 🧠 NLP pipelines with Hugging Face Transformers
-- 🌐 Enterprise .NET web applications
-- 🤖 Robotics path planning (Genetic · ACO · ABC algorithms)
+&nbsp;&nbsp;🌐 &nbsp;Enterprise .NET apps with ASP.NET Core, C# & Angular
 
-**🌱 Currently learning:**
-- Advanced deep learning architectures
-- Enterprise-level .NET & system design
+&nbsp;&nbsp;🤖 &nbsp;Robotics path planning — Genetic · ACO · ABC algorithms
+
+&nbsp;&nbsp;📊 &nbsp;Fine-tuning Transformer models on custom datasets
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="40%">
 
-### ⚡ Quick Facts
+**⚡ Quick Facts**
 
 | | |
-|---|---|
-| 🏫 | Benha University, Year 3 |
-| 🎯 | GPA **3.7 / 4.0** |
-| 💼 | NLP Specialist @ Quantum |
-| 🛠️ | .NET Trainee @ DEPI |
-| 🧠 | Specialization: **AI & NLP** |
-| 🌍 | Location: **Egypt** |
-| 🚀 | Open to: **Internships & Junior Roles** |
+|:--|--:|
+| 🏫 University | Benha CS — Year 3 |
+| 🎯 GPA | **3.7 / 4.0** |
+| 💼 Role | NLP @ Quantum |
+| 🛠️ Training | .NET @ DEPI |
+| 📍 Location | Egypt 🇪🇬 |
+| 🚀 Seeking | Internships & Junior Roles |
 
-### 🏅 Certifications
+<br/>
 
-🟢 **NVIDIA** — Fundamentals of Deep Learning
-🟣 **DEPI** — Full-Stack .NET Web Developer
-🔵 **English Certificate**
+**🏅 Certifications**
+
+🟢 &nbsp;**NVIDIA** — Fundamentals of Deep Learning
+
+🟣 &nbsp;**DEPI** — Full-Stack .NET Developer
+
+🔵 &nbsp;**English Certificate**
 
 </td>
 </tr>
