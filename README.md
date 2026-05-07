@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ## 👨‍💻 Who Am I?
 
@@ -45,6 +45,30 @@
 - 📍 Based in Egypt 🇪🇬  
 
 ---
+
+## 🎯 Current Focus
+
+```text
+🧠 NLP Pipelines & Transformers
+⚡ Deep Learning with PyTorch
+🌐 ASP.NET Core Applications
+🤖 AI Research & Intelligent Systems
+```
+
+---
+
+## 💡 Goals
+
+```text
+Building impactful AI systems
+that solve real-world problems.
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🎯 Current Focus
 
