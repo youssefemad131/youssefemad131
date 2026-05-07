@@ -1,6 +1,9 @@
+# Full Enhanced GitHub Profile README
+
+````md
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:7c3aed&height=260&section=header&text=Youssef%20Emad%20Samouel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20NLP%20Specialist%20%7C%20Full-Stack%20.NET%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <!-- Typing Animation -->
@@ -9,22 +12,34 @@
 <br/>
 <br/>
 
-<!-- Social Links -->
+<!-- Social Buttons -->
 <a href="https://linkedin.com/in/youssefemad1312">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:youssefemad1718@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://youssef-emadportfolio.lovable.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
+<a href="https://github.com/youssefemad131">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🧬 About Me
+# 🧠 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+NLP+Specialist;Full-Stack+.NET+Developer;Deep+Learning+%26+Transformers+Enthusiast;Building+Intelligent+Systems+with+AI+🚀" />
+
+</div>
 
 ```python
 class YoussefEmadSamouel:
@@ -32,31 +47,29 @@ class YoussefEmadSamouel:
     def __init__(self):
         self.name = "Youssef Emad Samouel"
         self.role = "AI Engineer & Full-Stack .NET Developer"
-        self.university = "Benha University — CS AI Track"
+        self.education = "Computer Science Student — AI Track"
+        self.university = "Benha University"
         self.gpa = "3.7 / 4.0"
         self.location = "Egypt 🇪🇬"
 
-        self.specialization = [
+        self.interests = [
             "Natural Language Processing",
             "Deep Learning",
             "Machine Learning",
-            "Full-Stack .NET Development"
+            "Backend Engineering",
+            "AI-powered Applications"
         ]
 
-    def current_focus(self):
+    def currently_building(self):
         return [
-            "Building NLP pipelines using Transformers",
-            "Training Deep Learning models with PyTorch",
-            "Developing enterprise ASP.NET applications",
-            "Researching intelligent robotics algorithms"
+            "🧠 NLP pipelines using Transformers",
+            "⚡ Deep Learning models with PyTorch",
+            "🌐 Enterprise ASP.NET Core applications",
+            "🤖 Intelligent AI solutions & research projects"
         ]
 
-    def technologies(self):
-        return [
-            "Python", "PyTorch", "TensorFlow",
-            "ASP.NET Core", "Angular",
-            "SQL Server", "CUDA", "MLflow"
-        ]
+    def goals(self):
+        return "Building impactful AI systems that solve real-world problems."
 
 me = YoussefEmadSamouel()
 ```
@@ -85,10 +98,13 @@ me = YoussefEmadSamouel()
 ## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
 <br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLTK-3ECF8E?style=for-the-badge"/>
+<br/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLTK-3ECF8E?style=for-the-badge" />
 
 ---
 
@@ -101,11 +117,14 @@ me = YoussefEmadSamouel()
 ## 🗄️ Databases & Data Tools
 
 <img src="https://skillicons.dev/icons?i=mysql" />
+
 <br/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<br/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
 
 ---
 
@@ -197,3 +216,4 @@ me = YoussefEmadSamouel()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0f172a&height=140&section=footer"/>
 
 </div>
+````
