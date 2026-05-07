@@ -29,88 +29,23 @@
 
 # 🧠 About Me
 
-<div align="left">
+```txt
+AI Engineer & Full-Stack .NET Developer passionate about building
+intelligent systems using NLP, Deep Learning, and modern backend technologies.
 
-## 👨‍💻 Who Am I?
-
-🎓 Computer Science Student — AI Track at Benha University  
-🧠 AI Engineer specialized in NLP & Deep Learning  
-🌐 Full-Stack .NET Developer building scalable applications  
-🚀 Passionate about AI systems that solve real-world problems  
-⚡ Interested in Transformers, LLMs, CUDA & Intelligent Systems  
-📍 Based in Egypt 🇪🇬
-
----
-
-## 🎯 Current Focus
-
-```text
-🧠 NLP Pipelines & Transformers
+Focused on:
+🧠 NLP & Transformer Models
 ⚡ Deep Learning with PyTorch
 🌐 ASP.NET Core Applications
-🤖 AI Research & Intelligent Systems
-```
+🤖 AI-powered Solutions & Research
 
----
-
-## 🛠️ Technologies I Work With
-
-```text
+Tech Stack:
 Python • PyTorch • TensorFlow • Hugging Face
-ASP.NET Core • Angular • SQL Server
-Machine Learning • NLP • CUDA • MLflow
+ASP.NET Core • Angular • SQL Server • CUDA
+
+🎓 Computer Science Student — AI Track
+📍 Egypt 🇪🇬
 ```
-
----
-
-## 💡 Goals
-
-```text
-Building impactful AI-powered systems
-that create real-world value.
-```
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🎯 Current Focus
-
-```text
-🧠 NLP Pipelines & Transformers
-⚡ Deep Learning with PyTorch
-🌐 ASP.NET Core Applications
-🤖 AI Research & Intelligent Systems
-```
-
----
-
-## 💡 Goals
-
-```text
-Building impactful AI systems
-that solve real-world problems.
-```
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youssefemad131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefemad131&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
