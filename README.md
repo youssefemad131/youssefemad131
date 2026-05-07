@@ -26,36 +26,8 @@
 </div>
 
 ---
-## 🧬 About Me
+<img width="913" height="582" alt="image" src="https://github.com/user-attachments/assets/f4326ae2-371e-443d-9afa-5c4b84cb2078" />
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding gif"/>
-
-**Hey, I'm Youssef!** 👋
-
-CS student at **Benha University** *(GPA: 3.7 / 4.0 — AI Track)*  
-Building intelligent systems with **NLP & Deep Learning**, and scalable web apps with **.NET**.
-
-Currently open to **internships & junior roles** in AI, NLP, or .NET development.
-
-<br/>
-
-🧠 &nbsp;NLP pipelines — classification, NER & sentiment with Hugging Face  
-🌐 &nbsp;Enterprise .NET apps with ASP.NET Core, C# & Angular  
-🤖 &nbsp;Robotics planning — Genetic · ACO · ABC algorithms  
-📊 &nbsp;Fine-tuning Transformer models on custom datasets  
-
-<br/>
-
-| | |
-|:--|--:|
-| 🏫 | Benha CS — Year 3 |
-| 🎯 | GPA **3.7 / 4.0** |
-| 💼 | NLP Specialist @ Quantum |
-| 🛠️ | .NET Trainee @ DEPI |
-| 📍 | Egypt 🇪🇬 |
-| 🚀 | Open to Internships & Junior Roles |
-
-<br clear="right"/>
 
 **🏅 Certifications**
 
