@@ -1,29 +1,30 @@
+# Modern Minimal AI GitHub Profile README
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:7c3aed&height=260&section=header&text=Youssef%20Emad%20Samouel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20NLP%20Specialist%20%7C%20Full-Stack%20.NET%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:06B6D4,100:7C3AED&text=Youssef%20Emad%20Samouel&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20•%20NLP%20Specialist%20•%20Full-Stack%20.NET%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+AI-powered+Applications+🤖;Natural+Language+Processing+Specialist+🧠;Full-Stack+.NET+Developer+💻;Deep+Learning+%7C+Transformers+%7C+CUDA+⚡;Always+Learning+%26+Building+🚀" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+AI-powered+Systems+🤖;Natural+Language+Processing+🧠;Deep+Learning+%7C+Transformers+⚡;ASP.NET+Core+%7C+Angular+💻;Always+Learning+Always+Building+🚀" />
 
 <br/>
 <br/>
 
-<!-- Social Buttons -->
 <a href="https://linkedin.com/in/youssefemad1312">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:youssefemad1718@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://youssef-emadportfolio.lovable.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
 <a href="https://github.com/youssefemad131">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -34,42 +35,39 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+NLP+Specialist;Full-Stack+.NET+Developer;Deep+Learning+%26+Transformers+Enthusiast;Building+Intelligent+Systems+with+AI+🚀" />
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Who Am I?
+
+- 🎓 Computer Science Student — AI Track
+- 🧠 AI Engineer focused on NLP & Deep Learning
+- 🌐 Full-Stack .NET Developer
+- 🚀 Passionate about building intelligent systems
+- ⚡ Interested in Transformers, LLMs & CUDA
+- 📍 Based in Egypt 🇪🇬
+
+### 🎯 Current Focus
+
+```text
+🔹 NLP Pipelines & Transformers
+🔹 Deep Learning with PyTorch
+🔹 ASP.NET Core Enterprise Apps
+🔹 Machine Learning Research
+```
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefemad131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</td>
+</tr>
+</table>
 
 </div>
-
-```python
-class YoussefEmadSamouel:
-
-    def __init__(self):
-        self.name = "Youssef Emad Samouel"
-        self.role = "AI Engineer & Full-Stack .NET Developer"
-        self.education = "Computer Science Student — AI Track"
-        self.university = "Benha University"
-        self.gpa = "3.7 / 4.0"
-        self.location = "Egypt 🇪🇬"
-
-        self.interests = [
-            "Natural Language Processing",
-            "Deep Learning",
-            "Machine Learning",
-            "Backend Engineering",
-            "AI-powered Applications"
-        ]
-
-    def currently_building(self):
-        return [
-            "🧠 NLP pipelines using Transformers",
-            "⚡ Deep Learning models with PyTorch",
-            "🌐 Enterprise ASP.NET Core applications",
-            "🤖 Intelligent AI solutions & research projects"
-        ]
-
-    def goals(self):
-        return "Building impactful AI systems that solve real-world problems."
-
-me = YoussefEmadSamouel()
-```
 
 ---
 
@@ -77,26 +75,51 @@ me = YoussefEmadSamouel()
 
 <div align="center">
 
-| 🧠 AI & NLP | 🎮 Graphics & Robotics |
-|---|---|
-| 🔬 Plant Disease Detection using CNNs & Transfer Learning | 🎲 3D Ball Runner Computer Graphics Game |
-| 📝 NLP Pipelines — NER, Sentiment Analysis, Text Classification | 🧬 Genetic Algorithm |
-| 🤖 Transformer Fine-Tuning with Hugging Face | 🐜 Ant Colony Optimization |
-| 🧠 Neural Networks with PyTorch & TensorFlow | 🐝 Artificial Bee Colony |
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 AI & NLP
+
+### 🔬 Plant Disease Detection
+CNN + Transfer Learning using PlantVillage Dataset.
+
+### 📝 NLP Pipeline
+NER, Sentiment Analysis & Text Classification using Transformers.
+
+### 🤖 Deep Learning Models
+Custom Neural Networks with PyTorch & TensorFlow.
+
+</td>
+
+<td width="50%">
+
+## 🎮 Graphics & Robotics
+
+### 🎲 3D Ball Runner
+Real-time Computer Graphics project.
+
+### 🧬 Optimization Algorithms
+- Genetic Algorithm
+- Ant Colony Optimization
+- Artificial Bee Colony
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-## 🤖 AI / Machine Learning
+## 🤖 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -111,39 +134,29 @@ me = YoussefEmadSamouel()
 
 ---
 
-## 🗄️ Databases & Data Tools
+## 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,cpp,figma,vscode" />
 
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-
----
-
-## ⚒️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,cpp,figma,vscode" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefemad131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefemad131&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefemad131&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/>
+<br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefemad131&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefemad131&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -153,17 +166,17 @@ me = YoussefEmadSamouel()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=youssefemad131&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=youssefemad131&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefemad131&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefemad131&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -171,12 +184,16 @@ me = YoussefEmadSamouel()
 
 # 🎓 Experience & Certifications
 
-| 🏢 Organization | 💼 Role | 📅 Duration |
+<div align="center">
+
+| 🏢 Organization | 💼 Role | 📅 Year |
 |---|---|---|
 | Quantum | NLP Specialist / Data Scientist | 2025 |
 | DEPI | Full-Stack .NET Trainee | 2025 |
-| NVIDIA Deep Learning Institute | Fundamentals of Deep Learning | 2024 |
-| Benha University | B.Sc. Computer Science — AI Track | 2023 – 2027 |
+| NVIDIA DLI | Fundamentals of Deep Learning | 2024 |
+| Benha University | Computer Science — AI Track | 2023 – 2027 |
+
+</div>
 
 ---
 
@@ -206,10 +223,11 @@ me = YoussefEmadSamouel()
 
 <div align="center">
 
-### 💡 “AI is not just about models — it's about building intelligent solutions that create impact.”
+### 💡 “Building intelligent systems that create real-world impact.”
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0f172a&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:06B6D4,100:0F172A&section=footer" />
 
 </div>
+````
