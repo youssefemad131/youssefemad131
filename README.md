@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://youssef-emadportfolio.lovable.app/">
+<a href="https://youssef-emad-portfolio.lovable.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
