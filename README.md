@@ -162,7 +162,7 @@ Real-time Computer Graphics Project.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/youssefemad1312">
+<a href="https://www.linkedin.com/in/youssef-emad1312">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
